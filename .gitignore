@@ -1,0 +1,6 @@
+# DuckDB / SQLite / bancos locais
+*.db
+*.duckdb
+*.wal
+*.db-wal
+*.db-shm
